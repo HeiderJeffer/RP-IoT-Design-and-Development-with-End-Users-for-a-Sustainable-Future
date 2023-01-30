@@ -1,5 +1,8 @@
 # Free-University-of-Bozen-Bolza-Ph.D.-Project
 # IoT Design and Development with End Users for a Sustainable Future
+Developer Heider Jeffer
+
+Supervisour Prof. ROSELLA GENNARI
 # Motivation
 To change the current state of HCI and fill the existing gap by addressing new challenges in Sustainable IoT devices and their interaction with end-users, such as children, teens. And to contribute new methodology reflects the child activities and IoT Green devices. Thus, it will enrich HCI knowledge and encourage the children with their parents to be more involved in sustainable IoT devices. 
 # Discussion of the State of the art 
