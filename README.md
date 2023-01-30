@@ -1,4 +1,3 @@
-# Free-University-of-Bozen-Bolza-Ph.D.-Project
 # IoT Design and Development with End Users for a Sustainable Future
 
 Developer Heider Jeffer hheider.jeffer@gmail.com
