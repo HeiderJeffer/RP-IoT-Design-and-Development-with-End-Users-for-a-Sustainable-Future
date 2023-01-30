@@ -1,8 +1,10 @@
 # Free-University-of-Bozen-Bolza-Ph.D.-Project
 # IoT Design and Development with End Users for a Sustainable Future
-Developer Heider Jeffer
 
-Supervisor Prof. Rosella Gennari
+Developer Heider Jeffer hheider.jeffer@gmail.com
+
+Supervisor Prof. Rosella Gennari  rosella.gennari@unibz.it
++39 0471 016964
 
 2022
 
