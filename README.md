@@ -1,11 +1,18 @@
 # IoT Design and Development with End Users for a Sustainable Future
 
-Developer Heider Jeffer hheider.jeffer@gmail.com
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Free-University-of-Bozen-Bolzano-Ph.D.-Project/" alt = "Visitors-Counter"/>
+</body>
 
-Supervisor Prof. Rosella Gennari  rosella.gennari@unibz.it
-+39 0471 016964
+
+
+Developer Heider Jeffer hheider.jeffer@gmail.com
+-----------------------------------------------------
+
+Supervisor Prof. Rosella Gennari  rosella.gennari@unibz.it, +39 0471 016964
 
 2022
+------------
 
 # Motivation
 To change the current state of HCI and fill the existing gap by addressing new challenges in Sustainable IoT devices and their interaction with end-users, such as children, teens. And to contribute new methodology reflects the child activities and IoT Green devices. Thus, it will enrich HCI knowledge and encourage the children with their parents to be more involved in sustainable IoT devices. 
