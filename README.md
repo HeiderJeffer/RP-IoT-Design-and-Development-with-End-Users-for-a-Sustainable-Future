@@ -1,5 +1,32 @@
 # IoT Design and Development with End Users for a Sustainable Future
 
+Keywords: Internet of Things (IoT),
+User-Centered Design,
+Sustainable Development,
+IoT Applications,
+Smart Devices,
+End User Engagement,
+Sustainability in IoT,
+Green Technology,
+Environmental Impact,
+Human-Centered IoT,
+IoT Usability,
+Eco-friendly IoT Solutions,
+IoT Innovation,
+Smart Cities,
+Sustainable Smart Homes,
+Energy-efficient IoT,
+IoT for Environmental Monitoring,
+Collaborative Design,
+User Experience (UX) in IoT,
+IoT Ecosystems,
+Sustainable Technology Development,
+IoT Lifecycle Management,
+Renewable Energy Integration,
+IoT in Resource Management,
+Ethical IoT Development
+
+
 <body>
 <img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Free-University-of-Bozen-Bolzano-Ph.D.-Project/" alt = "Visitors-Counter"/>
 </body>
