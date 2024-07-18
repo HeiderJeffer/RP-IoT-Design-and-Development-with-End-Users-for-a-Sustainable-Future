@@ -32,14 +32,8 @@ Ethical IoT Development
 </body>
 
 
-
-Developer Heider Jeffer hheider.jeffer@gmail.com
+Author: Heider Jeffer hheider.jeffer@gmail.com
 -----------------------------------------------------
-
-Supervisor Prof. Rosella Gennari  rosella.gennari@unibz.it, +39 0471 016964
-
-2022
-------------
 
 # Motivation
 To change the current state of HCI and fill the existing gap by addressing new challenges in Sustainable IoT devices and their interaction with end-users, such as children, teens. And to contribute new methodology reflects the child activities and IoT Green devices. Thus, it will enrich HCI knowledge and encourage the children with their parents to be more involved in sustainable IoT devices. 
